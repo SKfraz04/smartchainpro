@@ -1,0 +1,7 @@
+.slickSlider img {
+  border: 5px  solid #00e5ff;
+  border-radius: 15px;
+  width: 88%;
+  object-fit: cover;
+  min-height: 400px;
+}

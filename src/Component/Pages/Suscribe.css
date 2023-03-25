@@ -1,0 +1,22 @@
+.suscribe-input {
+  height: 66px;
+  color: #fff !important;
+  background: linear-gradient(-45deg, transparent 7px, hsla(0, 0%, 87%, 0.2) 0)
+      100%,
+    linear-gradient(-1deg, transparent, hsla(0, 0%, 100%, 0) 0) 0;
+  border: 0;
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 15px;
+  display: inline-block;
+}
+form {
+  display: flex;
+  gap: 30px;
+}
+.suscribe-input span {
+  color: white;
+}
+span {
+    color: antiquewhite;
+}

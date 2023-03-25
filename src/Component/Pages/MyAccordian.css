@@ -1,0 +1,22 @@
+.accordion-body {
+  color: white;
+  background: linear-gradient(90deg, #080343 -4.36%, #060421 101.89%);
+}
+button.accordion-button {
+  color: white;
+  background: linear-gradient(90deg, #080343 -4.36%, #060421 101.89%);
+}
+.accordion-button:not(.collapsed) {
+  color: white;
+  background: linear-gradient(90deg, #080343 -4.36%, #060421 101.89%);
+  font-size: 22px;
+  padding: 30px 10px;
+}
+button.accordion-button.collapsed {
+  font-size: 22px;
+  padding: 30px 10px;
+}
+.accordion-button:focus {
+
+    box-shadow:none!important;
+}
