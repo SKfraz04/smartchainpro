@@ -88,7 +88,7 @@ const Homepage = () => {
               <div className="allcards col-md-4 ">
                 <div className="card py-5 px-3">
                   <div className="card-body">
-                    <h5 className="card-title pb-4">Smartchain Purpose</h5>
+                    <h5 className="about-card-title pb-4">Smartchain Purpose</h5>
                     <p className="card-text">
                       A platform built for a sustainable future, to help people
                       work better together, trust one another, and build global
@@ -100,7 +100,7 @@ const Homepage = () => {
               <div className="allcards col-md-4 ">
                 <div className="card py-5 px-3">
                   <div className="card-body">
-                    <h5 className="card-title pb-5">Technology</h5>
+                    <h5 className="about-card-title pb-5">Technology</h5>
                     <p className="card-text pt-4">
                       SmartChainPRO ushers towards a revolutionary standard in
                       technology - open and inclusive - to challenge the old
@@ -113,7 +113,7 @@ const Homepage = () => {
               <div className="allcards col-md-4">
                 <div className="card py-5 px-3">
                   <div className="card-body">
-                    <h5 className="card-title pb-4">
+                    <h5 className="about-card-title pb-4">
                       A global network of tecknology
                     </h5>
                     <p className="card-text">

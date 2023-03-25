@@ -118,11 +118,9 @@
   text-align: center;
   min-height: 410px;
 }
-.card-title {
-  color: #fff;
+.about-card-title{
   font-weight: 600;
-  font-size: 18px;
-  text-align: center;
+  font-size:23px;
 }
 .card p {
   font-family: Poppins;
@@ -263,24 +261,24 @@
   line-height: 72px;
 }
 /* footer */
-.footer-logo p{
+.footer-logo p {
   color: white;
   font-size: 16px;
   line-height: 25px;
   width: 80%;
 }
-.policy li{
+.policy li {
   list-style: none;
   color: white;
   padding: 5px;
 }
-.social-link li{
+.social-link li {
   list-style: none;
   color: white;
   font-size: 25px;
   padding: 0 10px;
 }
-.contactus{
+.contactus {
   color: white;
   padding: 10px 0;
 }
